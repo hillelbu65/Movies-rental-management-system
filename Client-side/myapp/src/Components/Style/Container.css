@@ -1,0 +1,56 @@
+
+
+.leftButton {
+    margin-left: 0px;
+    background-color: #d3d3d3;    
+    border-style: none;
+    border-radius: 0px;
+
+}
+
+.containerNavBar{
+    display: '-webkit-flex'; 
+    z-index: 9998; 
+    bottom: 20px; 
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.navBar{
+    position:'fixed';
+    top: 85%;
+    background-color: #d3d3d3;
+    width: 400px;
+    height: 50px;
+    padding-top: 4px;
+    border-radius: 50px 50px 50px 50px;
+}
+
+.buttoncon{
+    font-weight: bold;
+    color: #562C2C;
+    margin: 10px;
+    background-color: #d3d3d3;
+    padding: 15px;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.inputcon {
+    padding: 15px;
+    width: 60%;
+    border-style: none;
+    border: 2px solid #d3d3d3 ;
+    background-color: #d3d3d3;
+    border-radius: 8px;
+}
+
+.button {
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: #d3d3d3;
+    border-style: none;
+    border-radius: 0px;
+    padding: 0px;
+}

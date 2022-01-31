@@ -1,0 +1,57 @@
+.movie{
+    margin-top: 40px;
+    border-radius: 10px ;
+}
+
+.movieHeader{
+    background-color: #d3d3d3;
+    color: #562C2C;
+    padding: 1px;
+    margin-top: -20px;
+    margin-bottom: 10px;
+    height: a;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.watched{
+    margin-bottom: -20px;
+    background-color: #F2D5A6;
+    border-radius: 10px 10px 10px 10px;
+    padding: 10px;
+}
+
+input{
+    margin-top: 10px;
+    padding: 10px;
+    width: 45%;
+    background-color: #d3d3d3;
+    border: none;
+    border-radius: 5px 0px 0px 5px;
+}
+
+button{
+    color: #562C2C;
+    background-color: #d3d3d3;
+    padding: 10px;
+    border-style: none;
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.img{
+    margin-top: 10px ;
+    width: 50%; 
+    border-radius: 10px; 
+}
+
+.buttonMovie{
+    width: 50%;
+    right: 0;
+    bottom: 0;
+    background-color: #F04419;
+    border-style: none;
+    height: 40px;
+    margin: 5px;
+    border-radius: 5px;
+    color: #562C2C;
+}

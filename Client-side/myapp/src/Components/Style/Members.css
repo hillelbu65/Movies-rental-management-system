@@ -1,0 +1,13 @@
+.main {
+    padding: 10px;
+}
+.slider{
+    display: flex;
+    overflow-x: scroll;
+    height: 70%;
+    
+}
+
+.sliderBox {
+    min-width: 450px;
+}
